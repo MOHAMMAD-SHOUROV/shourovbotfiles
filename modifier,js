@@ -1,0 +1,3 @@
+console.log("Modifier loaded from GitHub!");
+
+global.myName = "SHOUROV BOT";
